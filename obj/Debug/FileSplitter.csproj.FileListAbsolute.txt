@@ -1,0 +1,5 @@
+C:\file-splitter-gh\bin\Debug\FileSplitter.exe.config
+C:\file-splitter-gh\bin\Debug\FileSplitter.exe
+C:\file-splitter-gh\bin\Debug\FileSplitter.pdb
+C:\file-splitter-gh\obj\Debug\FileSplitter.exe
+C:\file-splitter-gh\obj\Debug\FileSplitter.pdb
