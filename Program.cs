@@ -12,7 +12,7 @@ namespace FileSplitter
         static void Main(string[] args)
         {
             var list = new List<string>();
-            var fileSuffix = 0; // just needed something
+            var fileSuffix = 0; // just needed something - adding more to this comment to trigger a build
 
             using (var file = File.OpenRead(@"C:\your\target\here.txt"))
             using (var reader = new StreamReader(file))
